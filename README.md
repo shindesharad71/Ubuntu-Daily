@@ -9,7 +9,9 @@ A Daily Use Guide For Debian Based OS Ubuntu.
 ## Table of Contents
   1. [Ubuntu Version Selection](#1-ubuntu-version-selection) 
   2. [Initial Setup and To-Do](#2-initial-setup-and-to-do)  
-    2.1. [Update and Upgrade](#21-update-and-upgrade)
+    2.1. [Update and Upgrade](#21-update-and-upgrade)  
+    2.2. [Installing Packages](#22-installing-packages)  
+    2.3. [Uninstalling Packages](#23-unistalling-packages)
 
 
 # 1. Ubuntu Version Selection
@@ -32,3 +34,19 @@ After this run the upgrade command
 ```bash
 sudo apt-get upgrade && sudo apt upgrade
 ```
+
+### 2.2 ```Installing Packages```
+
+After updating system you need to install packages for your daily use. The procedure to install different packages is pretty simple.
+```bash
+sudo apt install <package-name>
+```
+this command is used to install packages.
+
+### 2.3 ```Unistalling Packages```
+
+To unistall certain package from your system use following command - 
+```bash
+sudo apt autoremove <package-name>
+```
+this command will remove given packages and its dependencies.
