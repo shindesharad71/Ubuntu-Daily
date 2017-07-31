@@ -8,7 +8,7 @@ A Daily Use Guide For Debian Based OS Ubuntu.
 
 ## Table of Contents
   1. [Ubuntu Version Selection](#1-ubuntu-version-selection) 
-  2. [Initial Setup and To-Do](#2-initial-setup-and-to-do)
+  2. [Initial Setup and To-Do](#2-initial-setup-and-to-do)  
     2.1. [Update and Upgrade](#21-update-and-upgrade)
 
 
