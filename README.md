@@ -56,6 +56,18 @@ this command will remove given packages and its dependencies.
 
 Here are list of some best and must have packages for every linux user.
 
+### 3.1 ```VLC Media Player```
+A great player to play every media file!
+```bash
+sudo apt install vlc
+```
+
+### 3.2 ```GDebi Package Manager```
+To install ```.deb``` package files in simple forward way.
+```bash
+sudo apt install gdebi
+```
+
 ## Contribution
 
 - Report issues [How to](https://help.github.com/articles/creating-an-issue/)
