@@ -67,6 +67,22 @@ To install ```.deb``` package files in simple forward way.
 ```bash
 sudo apt install gdebi
 ```
+### 3.3 ```GParted```
+Manage partitions and disks.
+```bash
+sudo apt install gparted
+```
+### 3.4 ```Tweak Tools```
+To install beautiful themes and icon packs, also to customize look of your desktop.
+
+Gnome Tweak Tool
+```bash
+sudo apt install gnome-tweak-tool
+```
+Unity Tweak Tool
+```bash
+sudo apt install unity-tweak-tool
+```
 
 ## Contribution
 
