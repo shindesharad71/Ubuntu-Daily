@@ -19,7 +19,7 @@ For the best performance and stablality of system you should install ```LTS``` (
 
 The following things to do after installing new Ubuntu - 
 
-### 2.1 Update and Upgrade
+### 2.1 ```Update and Upgrade```
 
 After completing installation process first task is to update your system, so it will fix the security issues and bugs. Updating system frequently is best and it helps to improve stablality of your system and iprove the security levels.
 
