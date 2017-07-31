@@ -12,6 +12,7 @@ A Daily Use Guide For Debian Based OS Ubuntu.
     2.1. [Update and Upgrade](#21-update-and-upgrade)  
     2.2. [Installing Packages](#22-installing-packages)  
     2.3. [Uninstalling Packages](#23-unistalling-packages)
+  3. [Best Packages](#3-best-packages)  
 
 
 # 1. Ubuntu Version Selection
@@ -50,3 +51,17 @@ To unistall certain package from your system use following command -
 sudo apt autoremove <package-name>
 ```
 this command will remove given packages and its dependencies.
+
+# 3. Best Packages
+
+Here are list of some best and must have packages for every linux user.
+
+## Contribution
+
+- Report issues [How to](https://help.github.com/articles/creating-an-issue/)
+- Open pull request with improvements [How to](https://help.github.com/articles/about-pull-requests/)
+- Spread the word
+
+## License
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
